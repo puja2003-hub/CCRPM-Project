@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Shorten the image to 50% of its original size */
+img {
+    width: 300px;
+    height: auto; /* To maintain the aspect ratio */
+}
